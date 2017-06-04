@@ -1,4 +1,8 @@
-# to reproduce:
+# sass-loader-mdc
+
+Demo for [sass-loader#466](https://github.com/webpack-contrib/sass-loader/issues/466)
+
+## to reproduce:
 
 ```git clone git@github.com:marekpw/sass-loader-mdc && cd sass-loader-mdc```
 
@@ -6,7 +10,7 @@
 
 ```./node_modules/.bin/webpack```
 
-# output
+## output
 ```
 /mnt/q/demos/sass-loader-mdc on  master! ⌚ 11:02:35
 $ ./node_modules/.bin/webpack
